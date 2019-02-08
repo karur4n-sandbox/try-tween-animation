@@ -1,5 +1,5 @@
 import * as PIXI from "pixi.js";
-import tweenManager from "pixi-tween";
+import "pixi-tween";
 
 const fireButtonEl = document.getElementById("fire");
 
